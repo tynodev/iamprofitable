@@ -1,0 +1,2 @@
+# iamprofitable
+trading wellness app
